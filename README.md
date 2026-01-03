@@ -1,8 +1,6 @@
 # Hospitality_Revenue_Analytics
 Hospitality revenue analytics dashboard built using Power BI. Implemented star schema modeling, DAX-based KPIs, and interactive visuals to analyze real-world hotel performance metrics such as Revenue, RevPAR, ADR, and Occupancy.
 
-# Hospitality Revenue Analytics – Power BI Dashboard
-
 ## Overview
 This project focuses on analyzing **hospitality revenue performance** using real-world hotel business metrics.  
 A star-schema dataset was modeled in Power BI, relationships were created across fact and dimension tables, and key hospitality KPIs were calculated using DAX to build an interactive dashboard.
