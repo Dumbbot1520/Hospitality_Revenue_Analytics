@@ -42,3 +42,6 @@ A star-schema dataset was modeled in Power BI, relationships were created across
 ## Outcome
 The dashboard provides a **real-time view of hotel performance**, enabling stakeholders to track revenue trends, optimize occupancy, and evaluate operational efficiency.
 
+<img width="1402" height="819" alt="image" src="https://github.com/user-attachments/assets/e22ef628-313f-4ef3-972c-b016e81c6fee" />
+
+
