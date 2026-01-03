@@ -15,6 +15,10 @@ A star-schema dataset was modeled in Power BI, relationships were created across
 - `dim_date.csv` – Date dimension
 - `metrics-list.xlsx` – Business KPIs and metric definitions
 
+## How to Use the files
+- You can directly open the file `hospitality_revenue_analytics(with measures).pbix` for referring all the measures and open the `hospitality_revenue_analytics (final dashboard).pbix` for the final dashboard.
+- The `metrics-list.xlsx` mentions all the metrics and why they are used (with their DAX formulas for reference)
+
 ## Key Metrics Analyzed
 - Revenue
 - RevPAR (Revenue per Available Room)
